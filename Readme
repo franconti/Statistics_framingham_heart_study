@@ -1,0 +1,15 @@
+This Python repository aims to perform comprehensive data manipulation and statistical analysis on the Framingham Heart Study dataset using pandas.
+
+## Overview
+
+The Framingham Heart Study dataset is a rich collection of health-related attributes and risk factors collected from residents in Framingham, Massachusetts,
+contributing to ongoing cardiovascular research. This repository utilizes pandas to manipulate, clean, and conduct statistical analysis on this dataset.
+
+## Key Features
+- Data cleaning, plotting, and preprocessing using pandas.
+- Assessment of normality through the Shapiro-Wilk test to validate variable distributions.
+
+- Utilization of statistical tests:
+    - t-tests: for comparing cholesterol values between men and women.
+    - Chi-square: for testing the proportion of hypercholesterolemic patients in men and women.
+    - ANOVA (Analysis of Variance): for assessing cholesterol differences among blood pressure groups.
